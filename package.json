@@ -1,0 +1,22 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple knowledgebase app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadJavaidWork/NodeKB.git"
+  },
+  "author": "Ahmad Javaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadJavaidWork/NodeKB/issues"
+  },
+  "homepage": "https://github.com/AhmadJavaidWork/NodeKB#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
